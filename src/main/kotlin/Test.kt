@@ -9,4 +9,6 @@ fun main() {
     println(r.depth)
     r.depth = 55
     println(r.depth)
+    println(r.depth)
+    println(r.depth)
 }
